@@ -1,0 +1,47 @@
+country_id,continent_id,country,capital city,area,population,currency_id
+1,1,Albansko,Tirana,28748,2821977,9
+2,1,Andora,Andora,468,76246,1
+3,1,Belgicko,Brusel,32545,11428164,1
+4,1,Bielorusko,Minsk,207600,9461800,10
+5,1,Bosna a Hercegovina,Sarajevo,51129,3839737,11
+6,1,Bulharsko,Sofia,110910,7050034,2
+7,1,Cyprus,Nikozia ,9250,862000,1
+8,1,Cesko,Praha,78867,10649800,3
+9,1,Cierna Hora,Podgorica,13812,620029,1
+10,1,Dansko,Kodan,43094,5602628,4
+11,1,Estonsko,Tallinn,45226,1286540,1
+12,1,Finsko ,Helsinky,337030,5433730,1
+13,1,Francuzsko ,Pariz,675417,67348000,1
+14,1,Grecko,Ateny,131940,10768193,1
+15,1,Holandsko,Amsterdam,41526,17273000,1
+16,1,Chorvatsko ,Zahreb,56542,4290612,1
+17,1,Irsko,Dublin,70273,4585400,1
+18,1,Island,Reykjavik,103000,321857,12
+19,1,Lichtenstajnsko,Vaduz ,160,36842,13
+20,1,Litva,Vilnius,65200,2972949,1
+21,1,Lotyssko,Riga,64589,2027000,1
+22,1,Luxembursko,Lucemburk,2586,524900,1
+23,1,Madarsko,Budapest,93030,9957731,5
+24,1,Malta,Valletta,316,416055,1
+25,1,Moldavsko,Kisinov,33843,3559500,14
+26,1,Monako,Monako,2,35352,1
+27,1,Nemecko,Berlin,357021,82793800,1
+28,1,Norsko,Oslo,386700,5051275,15
+29,1,Polsko ,Varsava,322575,38433600,6
+30,1,Portugalsko,Lisabon,92391,10291027,1
+31,1,Rakusko,Vieden,83858,8488511,1
+32,1,Rumunsko,Bukurest,237500,19523621,7
+33,1,Rusko,Moskva,17075200,146877088,16
+34,1,San Marino ,San Marino,61,32480,1
+35,1,Severne Macedonsko,Skopje,25333,2059794,17
+36,1,Slovensko,Bratislava,49035,5412008,1
+37,1,Slovinsko,Lublana,20273,2059509,1
+38,1,Spojene kralovstvo,Londyn,263541,66040229,18
+39,1,Srbsko,Belehrad,88361,7189705,19
+40,1,Spanielsko,Madrid,504782,46659302,1
+41,1,Svajciarsko,Bern,41290,8014000,13
+42,1,Svedsko,Stokholm,449964,9566945,8
+43,1,Taliansko,Rim,301230,59499534,1
+44,1,Turecko,Ankara,780580,80810525,21
+45,1,Ukrajina,Kyjev,603700,42234014,22
+46,1,Vatikan,Vatikan,1,836,1
