@@ -1,4 +1,4 @@
-/*
+
 
 SELECT COUNT(DISTINCT(population)) FROM europa
 WHERE population > 10000000;
@@ -58,7 +58,7 @@ INSERT INTO language_in_country(language_id, language, country_id)
 VALUES('39', 'Macedonsky', '35');
 
 
-*/
+
 
 
 
